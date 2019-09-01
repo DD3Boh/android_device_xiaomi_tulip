@@ -1363,6 +1363,9 @@ vendor/lib/libthermalfeature.so
 vendor/bin/time_daemon
 vendor/lib64/libtime_genoff.so
 
+# VNDK
+vendor/lib/vndk/libbinder.so|e52e82762c6d5cbbfc5e953ca43ff6057505ee8a
+
 # Wifi
 vendor/bin/cnss-daemon
 
