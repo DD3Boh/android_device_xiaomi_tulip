@@ -1,6 +1,5 @@
 # Camera
 vendor/lib/hw/camera.sdm660.so
-vendor/lib/libMiWatermark.so
 vendor/lib/libSNPE.so
 vendor/lib/libVDClearShot.so
 vendor/lib/libVDSuperPhotoAPI.so
